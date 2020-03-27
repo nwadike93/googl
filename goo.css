@@ -1,0 +1,59 @@
+body{
+	margin:0;
+	padding:0;
+ }
+ h1{
+ 	margin:10% 0% 0% 0%;
+ }
+ .continer{
+ 	width%;
+ 	height:%;
+ }
+.box1{
+	width:px;
+	background:;
+	padding:px;
+	margin:2% 0% 0% 85%;
+	text-align:;
+	display: flex;
+	font-size:13px;
+
+}
+.nav{
+	padding:5px;
+	text-decoration: none;
+
+}
+.nav:hover{
+	color:blue;
+}
+.box2{
+	text-align: center;
+	font-size: 50px;
+}
+ 
+.blue{
+	color: #4d80e4;
+}.red{
+	color: red;
+}
+.orange{
+	color: orange;
+}
+.green{
+	color: green;
+}
+input{
+	width:400px;
+	height: 40px;
+	display:inline-block;
+	font-size: 20px;
+	border-radius: 100px;
+	border:;
+
+}
+button{
+	font-size:20px;
+	height:40px;
+	background: #f3f3f3;
+}
